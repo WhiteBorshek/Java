@@ -1,3 +1,4 @@
+// 3.Реализовать простой калькулятор
 package Hometasks;
 
 import java.util.Scanner;
