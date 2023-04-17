@@ -20,5 +20,6 @@ public class HometaskIII {
 
         System.out.println("Result: ");
         System.out.println(res1 + "\n" + res2 + "\n" + res3 + "\n" + res4);
+        scan.close();
     }
 }
