@@ -1,3 +1,4 @@
+// 2. Вывести все простые числа от 1 до 1000
 package Hometasks;
 
 public class HometaskII {
